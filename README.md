@@ -1,4 +1,4 @@
-# Study on Adversarial Robustness ofPhishing Email Detection Mode
+# Master Thesis - Study on Adversarial Robustness of Phishing Email Detection Mode
 
  Developing robust detection models against phishing emails has long been the main concern of the cyber defense community. Currently, public phishing/legitimate datasets lack
 adversarial email examples which keeps the detection models vulnerable. To address this problem, we developed an augmented phishing/legitimate email dataset, utilizing different adversarial text attack techniques. We then detected and analyzed the unique characteristics of the emails that can be easily transformed into adversarial examples. Henceforth, the
