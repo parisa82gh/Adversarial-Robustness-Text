@@ -39,11 +39,8 @@ squeezebert
 yoso
 
 -- Datasets Directories
-- Cleaned Original data
-data
-- Adversarial data
-adv_data
-- Augmenetd data
-augmented_data
+Cleaned Original data: data
+Adversarial data: adv_data
+Augmenetd data: augmented_data
 
 
