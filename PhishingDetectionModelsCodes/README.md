@@ -1,6 +1,7 @@
 ## This folder contains all the model directories and related datasets
 
--- Models directories
+# Models directories
+
 - Model: Phishing detection albert model, Dataset: Cleaned Original
 albert
 - Model: Phishing detection albert model, Dataset: trainset + advarsarial
@@ -38,9 +39,9 @@ squeezebert
 - Model: Phishing detection yoso model, Dataset: Cleaned Original
 yoso
 
--- Datasets Directories
-Cleaned Original data: data
-Adversarial data: adv_data
-Augmenetd data: augmented_data
+# Datasets Directories
+- Cleaned Original data: data
+- Adversarial data: adv_data
+- Augmenetd data: augmented_data
 
 
