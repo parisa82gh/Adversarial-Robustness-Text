@@ -7,3 +7,4 @@ In another experiment, synthetic phishing emails were generated using a fine-tun
 have observed the accuracy and robustness of the model did not improve under black box attack methods.
 In our last experiment, we proposed a defensive technique to classify adversarial examples to their true labels using K-Nearest Neighbor with 95% accuracy in our prediction.
 
+Link to the ACM published paper [Adversarial Robustness of Phishing Email Detection Models] (https://dl.acm.org/doi/abs/10.1145/3579987.3586567) paper
